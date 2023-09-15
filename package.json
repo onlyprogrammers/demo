@@ -8,7 +8,9 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node api.js"
+    "build":"npm run build"
+    "start": "node api.js",
+
   },
   "keywords": [],
   "author": "",
